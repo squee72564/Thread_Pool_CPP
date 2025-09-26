@@ -4,7 +4,7 @@ This is a simple C++ thread pool implementation that allows you to execute tasks
 You can build it easily with CMake
 
 ```bash
-git clone 
+git clone https://github.com/squee72564/Thread_Pool_CPP.git
 cd Thread_Pool_CPP
 mkdir build
 cmake -S . -B build
